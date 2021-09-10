@@ -1,377 +1,377 @@
-point,OrganisationURI,OrganisationLabel,SiteReference,SiteNameAddress,GeoX,GeoY,SiteplanURL,Hectares,OwnershipStatus,HazardousSubstances,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,MinNetDwellings,NetDwellingsRangeFrom,NetDwellingsRangeTo,Deliverable,Notes,FirstAddedDate,LastUpdatedDate,EndDate
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6189,"440 ALLERTON ROAD, L18",,,,0.101365,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5157,LIVERPOOL WATERS - NORTHERN DOCKS,,,,15.049742,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6312,147 BRECK ROAD,,,,0.008225,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4011,HOLLY COTTAGE AND LAND OF WOOD LANE,,,,0.608753,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4559,DORSET COURT. MADEIRA DRIVE L25.,,,,0.519459,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5714,CATS WHISKERS P.H. HARTSBOURNE AVENUE L25,,,,0.160509,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2661,WAREHOUSES ON PALL MALL (NORTH) & LAND TO REAR,,,,1.190775,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2877,KING EDWARD TRIANGLE,,,,2.339496,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2734,JAMAICA STRRET AND LAND BETWEEN NORFOLK STREET AND BRICK STREET,,,,0.483236,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,341,PRINCES DOCK AREA,,,,11.400157,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,154,LAND AT JUNCTION OF ISLINGTON / ASHTON PLACE / GILDART STREET,,,,0.521847,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6165,ERSKINE STREET / MANFRED STREET / PROSPECT STREET,,,,0.485342,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6121,"STRAND HOUSE, 21 STRAND STREET",,,,0.383448,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2236,BUILDING AT COCKSPUR ST WEST/ PALL MALL / PRUSSIA ST / HIGHFIELD STREET,,,,0.3053,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2245B,33 DEVON STREET,,,,0.105785,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2261,SOUTH EAST JUNCTION OF ISLINGTON / NORTON STREET,,,,0.403712,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5798,11 FONTENOY STREET L3,,,,0.15921,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5995,"SILKHOUSE COURT, TITHEBARN STREET L2.",,,,0.227176,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6335,"HUGHES HOUSE, 101-113 LONDON ROAD",,,,0.334164,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6093,LAND AT NORTON STREET / ISLINGTON,,,,0.323136,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6186,122 OLD HALL STREET,,,,0.134763,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5719,LAND AT CORNER OF DEVON STREET & MOSS STREET L6,,,,0.283205,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3169,GRASSED AREA CORNER OF PRESCOT STREET & ERSKINE STREET,,,,0.246813,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4019,LAND BOUNDED BY SKELHORNE ST / BOLTON ST & NEW HILBRE WALK,,,,0.195873,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5546,"MERSEY HOUSE, THE STRAND",,,,0.134031,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5384,"FORMER ODEON PICTURE HOUSE, 28 LONDON ROAD L3.",,,,0.24464,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,95A,LAND TO NORTH EAST JUNCTION OLDHAM PLACE / BACK RENSHAW STREET,,,,0.13148,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6342,"NORWICH BUILDING, WATER STREET",,,,0.167576,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3756A,KINGSWAY HOUSE,,,,0.021241,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6260,"DRURY HOUSE, 19 WATER STREET",,,,0.115899,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5968,"RALLI HOUSE, 60 OLD HALL STREET L1",,,,0.090377,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5881,45 & 51-79 LIME STREET L1,,,,0.34773,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3304,ARCHBISHOP BLANCH SCHOOL SITE,,,,5.091082,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2197,89-99 RENSHAW STREET,,,,0.122934,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2319,"VICTORIA HOUSE, 7-11 JAMES STREET",,,,0.067922,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,95B,OLDHAM PLACE OFF ROSCOE STREET,,,,0.38526,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6227,"HARDMAN HOUSE AND HAIGH BUILDING, HARDMAN STREET / MARYLAND STREET",,,,0.328889,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6343,"SIR THOMAS HOUSE, 5 SIR THOMAS STREET",,,,0.027524,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6223,"NORTH HOUSE, NORTH JOHN STREET",,,,0.046954,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2226,RELIANCE HOUSE / 20 WATER STREET,,,,0.119798,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2765,77-85 DALE ST (PRINCE'S BUILDINGS),,,,0.046183,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6278,HONEYCOMB EDMUND STREET L3,,,,0.071985,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2788,10-12 JAMES ST (CROWN HOUSE),,,,0.024351,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3750,42-44 STANLEY STREET L1,,,,0.036859,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6225,"IRWELL CHAMBERS, 9 UNION STREET",,,,0.137801,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6112,42 CASTLE STREET,,,,0.039094,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6087,1-3 TEMPLE COURT,,,,0.052151,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2779,18 WATER ST (NEW ZEALAND HOUSE),,,,0.078865,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2265,194 LONDON ROAD,,,,0.024483,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6147,"Myrtle Court, 200 Crown Street, L8 7JX",,,,0.429989,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2783,7 WATER ST / 3 FENWICK ST,,,,0.101007,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6118,110 LONDON ROAD,,,,0.010943,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3027,21-23 RANELAGH ST (CORNER RANELAGH ST AND ENTRANCE TO CLAYTON SQUARE CENTRE),,,,0.01372,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6008,19 CASTLE STREET,,,,0.044483,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6126,"FORMER CORPORATION STABLES, 65-73 SMITHDOWN LANE",,,,0.053811,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6307,44 CASTLE STREET,,,,0.013582,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6360,"BIANCA HOUSE, 80 DEVON STREET (KNOWN AS 56-58 STAFFORD STREET)",,,,0.029584,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3100,71-73 KEMPSTON STREET,,,,0.043058,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2889,36-37 LEECE ST (POST OFFICE),,,,0.010917,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5955,13-17 TARLETON STREET L1,,,,0.024052,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6240,50-58 LONDON ROAD,,,,0.043964,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5527,9-11 CAMDEN STREET,,,,0.037321,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6205,24 RODNEY STREET,,,,0.019567,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6285,4 TEMPLE COURT,,,,0.015224,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2812,21 TRUEMAN ST (THRELFALL BUILDING),,,,0.067804,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6366,41-43 SEYMOUR TERRACE,,,,0.010604,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4938,SITE BETWEEN 43 COMMERCIAL ROAD & TOBACCO WHARF L5.,,,,0.302114,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2560,GARSTON UNDER THE BRIDGE REDEVELOPMENT AREA,,,,7.891752,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5843,83-89 KEMPSTON STREET L3,,,,0.073372,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6300,31-33 TARLETON STREET,,,,0.020349,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6318,14B POMONA STREET,,,,0.014993,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5966,43-47 STAFFORD STREET L3.,,,,0.023964,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5900,82 KEMPSTON STREET L3,,,,0.030536,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6081,MAY PLACE,,,,0.004906,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1691A,"Former Robinson Willey Site, Mill Lane, Liverpool, L13",,,,2.385481,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3761,"FORMER SARAH MCARD NURSERY, SHAW STREET",,,,0.24546,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2609,LAND AT MALDON LODGE / WOOLTON ROAD,,,,0.231147,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6261,SITE OF 280 ALLERTON ROAD,,,,0.277519,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6098,160-164 GREENHILL ROAD,,,,0.061396,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6284,35 DUDLOW LANE,,,,0.207373,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3998,6A ROSE LANE L18.,,,,0.01903,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5845,22 ROSE LANE L18.,,,,0.008801,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6018,34A BRIDGE ROAD,,,,0.023349,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6123,"FORMER WHISTLERS FARM SHOP SITE, LORENZO DRIVE",,,,0.469961,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6145,299 UTTING AVENUE,,,,0.004259,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6151,"254-256 COUNTY ROAD, LIVERPOOL, L4",,,,0.01774,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6328,95 COUNTY ROAD,,,,0.017323,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6110,LAND BETWEEN 3-13 HARLECH STREET,,,,0.028913,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5869,74 GOODISON ROAD L4,,,,0.012179,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5933,11A BIRCHFIELD ROAD L4,,,,0.020087,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5930,193A COUNTY ROAD,,,,0.017688,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2088,LONG LANE / GREENHILL RD / GREENHILL NURSERY,,,,2.772194,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6194,"FORMER ST AUSTIN'S CHURCH, PRESBYTERY AND CHALONER HALL, AIGBURTH ROAD",,,,0.313152,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4659,LAND TO THE REAR OF 563-565 AIGBURTH ROAD L19,,,,0.109833,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6248,670 AIGBURTH ROAD,,,,0.013304,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4968,LAND BETWEEN 'BINBROOKE' & 22 EATON ROAD L19.,,,,0.0826,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5961,LAND AT END OF FLORIDA COURT L19.,,,,0.024124,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4475,"FORMER DOG AND GUN PUBLIC HOUSE, CROXTETH HALL LANE/CARR LANE EAST, LIVERPOOL, L12",,,,0.180575,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4054,"SWAINBANKS LIMITED, 50 FOX STREET",,,,0.892711,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6065,"LAND AT FOX STREET / ST ANNE STREET, L3",,,,0.817133,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3367,GREAT HOMER ST SHOPPING CENTRE (PROJECT JENNIFER),,,,17.382948,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3369,LAND AND BUILDINGS AT CLEGG ST / ILIAD ST / PRINCE EDWIN ST,,,,0.278932,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5257,NOTRE DAME SCHOOL,,,,1.484032,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1936C,FORMER JFK HEIGHTS / EVERTON BROW / SALISBURY ST / HAIGH ST,,,,0.265794,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5892,"FORMER CENTRAL TIN FACTORY SITE, WILBRAHAM ST / DRYDEN ST",,,,0.618362,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4613,"THE STRAWBERRY TAVERN, BRECKFIELD ROAD SOUTH",,,,0.357572,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3576,LAND & BUILDINGS AT EDGE LANE,,,,9.171551,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4472,"FORMER OGDENS TOBACCO FACTORY SITE, WEST DERBY ROAD/BOUNDARY LANE, LIVERPOOL, L6",,,,3.466985,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3894,SITE OF FORMER MONTROSE CLUB WHITEFIELD ROAD,,,,0.231886,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4825,14-20 BRECKFIELD ROAD NORTH,,,,0.032964,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5236,OLIVIA'S BAR (FORMERLY DEVONSHIRE ARMS P.H) ST. DOMINGO ROAD L5.,,,,0.051968,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6305,"OLD CAMPFIELD HOTEL, 98 HEYWORTH STREET",,,,0.041069,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5969,LAND ADJ TO 40 BIRCHFIELD STREET L3.,,,,0.078887,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6166,1-3 EVERTON ROAD,,,,0.01834,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6309,42 BRECKFIELD ROAD NORTH,,,,0.010784,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5964,56-70 CONWY DRIVE L6,,,,0.047319,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5839,58 BRECKFIELD ROAD NORTH L5,,,,0.006512,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6270,"197-199 OAKFIELD ROAD, L4",,,,0.022444,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6209,LAND TO THE SIDE OF 11 MARATHON CLOSE,,,,0.009229,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4666,"NEWHALL, LONGMOOR LANE",,,,4.032801,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4786,REDBRIDGE AND BANKVIEW. SHERWOODS LANE,,,,1.916664,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1459,LAND AT MELLING AVENUE L9.,,,,0.015664,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6193,352 LONGMOOR LANE,,,,0.008965,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6191,"GREENBANK SYNAGOGUE, GREENBANK DRIVE, L17",,,,0.549494,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5228,'THE WHEEL HOUSE' 10 ELMSLEY ROAD L18.,,,,0.632955,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6085,"BRIDGE HOUSE, 7 MOSSLEY HILL DRIVE",,,,0.304315,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6361,185 VALE ROAD,,,,0.009299,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6362,671 SMITHDOWN ROAD,,,,0.028531,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6124,LAND AT LOW HILL,,,,0.727975,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1718,209-299 PRESCOT ROAD AND 16-24 PRESCOT DRIVE,,,,0.639364,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4186,WORKS AT 86 COLERIDGE STREET,,,,0.102084,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5243,10 HOLLY ROAD L7,,,,0.149496,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4189,"DYSON RYCROFT MEMORIAL HALL, BETWEEN 153&155 KENSINGTON",,,,0.11002,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6203,2 GROVE ROAD,,,,0.047813,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6276,176 BOALER STREET,,,,0.007259,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4369,24 FREEHOLD STREET,,,,0.025264,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6220,8 LORNE STREET,,,,0.015129,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5981,181 BOALER STREET L6,,,,0.011852,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6144,2 PRESCOT DRIVE,,,,0.104052,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,613,CENTRAL DOCKS,,,,17.505176,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3853,ANFIELD / BRECKFIELD HMRI REGENERATION AREA,,,,18.537514,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5158,LIVERPOOL WATERS - CLARENCE DOCK,,,,13.009674,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1983,LAND AT LEEDS ST / LANYORK ROAD,,,,0.770271,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,617,STANLEY DOCK / NORTH DOCKS,,,,5.155591,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6319,160-162 BRECK ROAD,,,,0.07484,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5928,LAND CORNER BEVINGTON BUSH / GARDNER ROW / EDGAR STREET,,,,0.397961,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2655,LAND BETWEEN FREEMASON'S ROW / GLADSTONE ST & LEEDS ST,,,,0.242715,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1659,BOND STREET / ELDON GROVE SITE,,,,0.905816,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4229,"EASBY ESTATE, EASBY ROAD / LAMBETH ROAD / HARCOURT STREET",,,,6.420676,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6274,31A ORWELL ROAD,,,,0.073155,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3355,LAND AT BURRELL ST / CHRISTOPHER ST / TATE ST / TETLOW ST,,,,0.099284,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4320,SITE AT WESTWINSTER ROAD / FOLEY STREET,,,,0.052346,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1687,FORMER 152 STANLEY ROAD & SITE ADJ TO 82 LAMBETH ROAD,,,,0.034418,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6236,LAND AT HERIOT STREET,,,,0.057215,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6040,5 CARISBROOKE ROAD,,,,0.012889,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5544,111 MILL LANE L12.,,,,0.158604,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4584,"ALDER GRANGE, CENTRAL DRIVE. SANDFIELD PARK L12.",,,,0.955765,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4067,"FORMER KELTON CONVENT, WOODLANDS ROAD",,,,0.621515,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6128,"SIR THOMAS MOORE RC CHURCH, RUNDLE ROAD",,,,0.061047,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5978,63 AVONMORE AVENUE L18,,,,0.025377,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1948,LAND TO REAR OF KELTON LODGE / WOODLANDS ROAD,,,,0.069376,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5815,"BROUGHTON HOUSE, 37-39 ASHFIELD ROAD L17.",,,,0.246971,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3614,"PHASES 1, 2&3 THE BOOT ESTATE REGENERATION, NORRIS GREEN",,,,21.602753,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4598,NORRIS GREEN BOOT ESTATE - phase 1,,,,32.115284,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6138,LAND AT THE CORNER OF UTTING AVENUE / EAST LEWISHAM ROAD,,,,0.02798,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6355,275 LONG LANE,,,,0.065902,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4750,19-21 DERBY LANE,,,,0.099611,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6277,33 DERBY LANE,,,,0.033672,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4222,LAND BETWEEN SPEKELANDS & 70 OAKHILL PARK,,,,0.164386,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6311,LAND AT 6 DERWENT ROAD WEST,,,,0.076392,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4155,FORMER ALLENBY SQUARE NURSERY SCHOOL. ALLENBY SQUARE / ELMS HOUSE ROAD,,,,0.124138,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5007,"ST. MARGARET'S PARISH HALL, 2 BELMONT ROAD L6.",,,,0.103006,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5757,39 CHURCH ROAD L13,,,,0.050496,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4096,REAR OF 1A-1B DERBY LANE,,,,0.0538,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4965,LAND AT MILL LANE AT REAR OF 7-21 CUNNINGHAM ROAD L13.,,,,0.149523,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3855,WAVERTREE HMRI REGENERATION AREA,,,,6.870263,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5556,16-18 GRINFIELD STREET L7,,,,0.061946,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5834,"LAND ADJACENT TO WAVERTREE HOUSE, 145 LAWRENCE ROAD L15",,,,0.013391,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1715,REAR OF THE COMMUNITY CENTRE FREEMAN ST / FEARNSIDE ST,,,,0.081408,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6095,"WELLINGTON AVENUE SUNDAY SCHOOL, WELLINGTON AVENUE",,,,0.103196,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5943,LAND ADJ 46 SPOFFORTH ROAD L7,,,,0.050648,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6341,MAPLE GROVE / FERN GROVE,,,,0.01977,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1714,"FORMER EARLE ACTIVITIES CENTRE, FREEMAN STREET",,,,0.122346,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6251,1 LANGTON ROAD,,,,0.017501,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5975,LAND AT HARBORD STREET & OVERBURY STREET L7.,,,,0.013784,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6336,LAND ADJACENT TO 36 THORNYCROFT ROAD,,,,0.008777,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5980,84 VANDYKE STREET L8,,,,0.012114,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5701B,"11-12 NORTH VIEW, LIVERPOOL",,,,0.051639,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5887,BELLERIVE COLLEGE SITE,,,,0.514188,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3203,"FORMER TIBER ST SCHOOL, LODGE LANE",,,,1.152864,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6174,2 PRINCES ROAD,,,,0.044596,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6252,115-117 WINDSOR STREET,,,,0.022053,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6320,162-172 HIGH PARK STREET,,,,0.054313,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6213,VACANT LAND AT KINGSLEY ROAD,,,,0.088483,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5369,104 LODGE LANE L8.,,,,0.022694,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6129,127A UPPER STANHOPE STREET,,,,0.006946,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5878,73 CANNING STREET L8,,,,0.019778,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6247,COACH HOUSE ADJACENT TO 2 CAIRNS STREET,,,,0.00791,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6269,"40-50 PERCY STREET AND 53-57 UPPER PARLIAMENT STREET, L8",,,,0.080577,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6365,1 SUNNYSIDE,,,,0.084521,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5896,5 PARR ST & WOLSTENHOLME SQUARE & LAND/PREMISES BETWEEN NORTH EDGE WOLS,,,,0.47876,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4083A,LAND AT HILL ST / GRAFTON ST & BRASSEY STREET,,,,0.6721,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3852,LAND BOUNDED BY SEFTON STREET / PARLIAMENT STREET / STANHOPE STREET / CARYL STREET,,,,1.048267,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5764,"LAND BOUNDED BY PARK LANE / LIVER STREET & BECKWITH STREET L1,",,,,0.238724,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5155,LAND AT HURST STREET/SPARLING STREET/TABLEY STREET/WAPPING L1.,,,,0.290817,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6060,"LAND ADJACENT TO THE KEEL, KINGS PARADE / HALFTIDE WHARF KINGS DOCK",,,,0.925851,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5910,GREENLAND STREET / NEW BIRD STREET / ST JAMES STREET / ST JAMES COURT,,,,0.217776,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5292,"FORMER WAREHOUSE SITE, BLUNDELL STREET / KITCHEN STREET L1",,,,0.271168,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6108,Land at Vine Villa OFF Wood Lane,,,,0.15032,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5790,19 FULWOOD PARK L17,,,,0.423578,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5799,1 YEWTREE ROAD L18,,,,0.093881,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5833,55 ST DOMINGO GROVE L5.,,,,0.037498,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6337,LAND ADJACENT TO 123 WESTMINSTER ROAD,,,,0.008698,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6323,2 OLD WOOD LANE,,,,0.109304,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4548,"LAND ADJACENT TO NO49 BRECKSIDE PARK, L6",,,,0.061883,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2516,118-124 DUKE STREET & LAND AT CORNER OF DUKE ST / KENT ST / HENRY ST,,,,0.157346,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3579,"HERCULANEUM QUAY, ROYDEN WAY, RIVERSIDE DRIVE",,,,0.232347,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1339,FORMER FACTORY GRAFTON ST / PARK ST / CARYL ST,,,,2.292628,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2426,63 & 65 DUKE STREET / 15 WOLSTENHOLME SQUARE,,,,0.053285,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3884,16 FLEET STREET CONCERT STEPS. L1,,,,0.039822,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2622,LAND AT UPPER PITT STREET,,,,0.036288,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1261,FORMER 406-434 PARK ROAD,,,,0.211358,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1895,LAND BOUNDED BY HARLOW ST / HAYLOCK CLOSE / MILL STREET,,,,0.352873,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1897,FORMER 15-37 BESSEMER ST / 102-104 BERESFORD RD / 378-400 MILL STREET,,,,0.36293,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4267,LAND ON THE CORNER OF MILL STREET/BERESFORD ROAD AND TO THE REAR OF THE FLORENCE INSTITUTE L8,,,,0.187822,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2847,BUILDING AT CORNER WOOD ST/ BERRY ST/ BOLD ST,,,,0.030815,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4203,LAND ON THE CORNER OF WARWICK STREET AND SHAFTESBURY STREET L8,,,,0.088071,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3978,82-84 COCKBURN STREET,,,,0.01063,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5174,LAND OFF PARR STREET TO THE REAR OF 141 DUKE STREET L1.,,,,0.008837,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5691,LAND ADJACENT TO 113 NORTHUMBERLAND STREET,,,,0.018051,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4807,"3A GRANVILLE ROAD, GARSTON",,,,0.03082,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4536,"LAND ADJACENT TO LINNET HOUSE,LINNET LANE LIVERPOOL, L8",,,,0.149637,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2403,FORMER ST AUGUSTINES HOME / AIGBURTH ROAD,,,,0.987111,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4477,"LAND ADJACENT TO 28 AIGBURTH DRIVE AND AT REAR OF 2-18 EASTFIELD DRIVE, LIVERPOOL, L17",,,,0.10693,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5119,REAR OF 1 LIVINGSTON DRIVE SOUTH. L17,,,,0.062405,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2389,"Land at Silverdale Avenue, Hilberry Avenue, Sutton Street_x000D_ Liverpool 13",,,,0.167456,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4535,"FORMER GARAGE PREMISES AT 94 TOWNSEND LANE, (ON CORNER OF DARMONDS GREEN AVENUE), LIVERPOOL, L6",,,,0.179897,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3993,78/78A HILBERRY AVENUE,,,,0.028849,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3996,13 TOWNSEND LANE / 1A ABBEY ROAD,,,,0.010671,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4588,24 LOWER BRECK ROAD L6,,,,0.009479,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5269,REAR OF 53 KREMLIN DRIVE L13,,,,0.0518,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1962,WALTON HOSPITAL SITE / RICE LANE,,,,11.74174,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4023,LAND AT 15 BROOK ROAD,,,,0.05544,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5390,45A CHAPEL AVENUE L9,,,,0.057089,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2377,LAND ADJACENT TO 25 PALACE ROAD,,,,0.017671,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4280,"FORMER WAVERTREE TRAIN STATION APPROACH, LAND AT WELLINGTON ROAD",,,,0.875075,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5274,"NEWSTEAD FARM, QUARRY STREET L25.",,,,0.411015,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5202,THE FUR & FEATHERS SOCIAL CLUB. MAB LANE L12.,,,,0.316782,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1704,SITE IN LAUREL ROAD ADJACENT TO No:17,,,,0.8032,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6190,12-30 PARLIAMENT STREET,,,,0.189266,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6163,LAND AT GRENVILLE STREET SOUTH / UPPER PITT STREET,,,,0.404957,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5911,"32-34 PARLIAMENT STREET, L8",,,,0.073375,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6301,"FORMER COUNCIL DEPOT SITE, LYDIA ANN STREET",,,,0.083316,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5891,LAND BETWEEN BRIDGEWATER STREET / SIMPSON STREET / WATKINSON STREET,,,,0.042007,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6263,"3-5 YORK STREET, L1",,,,0.028263,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1842,LAND TO SOUTH OF PARK STREET BTWN UPPER ESSEX ST / TOXTETH ST,,,,0.124829,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4071,349 MILL STREET/44 HARLOW STREET,,,,0.036594,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6302,80 RODNEY STREET,,,,0.048246,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6334,9-19 BOLD STREET,,,,0.094573,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4205,LAND BETWEEN NOS 10-30 NEW HENDERSON STREET L8,,,,0.131146,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5888,"BERESFORD ARMS, 158 BERESFORD ROAD",,,,0.051695,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4202,LAND ON THE CORNER OF WARWICK STREET & PRINCE WILLIAM STREET AND TO THE REAR OF RETAIL UNITS L8,,,,0.155498,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5931,31 RODNEY STREET,,,,0.043449,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6303,101-103 BOLD STREET,,,,0.027287,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4204,LAND BETWEEN NEW HENDERSON STREET & SHAFTESBURY STREET L8,,,,0.149,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6330,30 SLATER STREET,,,,0.007157,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6152,"441 MILL STREET, L8",,,,0.005772,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2756B,108 WOOD STREET,,,,0.011828,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6264,FORMER 181-185 DUKE STREET,,,,0.021243,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2194,44-46 BERRY STREET,,,,0.012133,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6097,45 RODNEY STREET,,,,0.083331,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6150,"437 MILL STREET, L8",,,,0.008469,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5874,22 BERRY STREET L1,,,,0.005664,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6023,51 RODNEY STREET,,,,0.018375,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6196,39 RODNEY STREET,,,,0.063082,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6219,91 ROSCOE STREET,,,,0.009587,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6082,72 RODNEY STREET,,,,0.018092,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6233,1 BAILEY STREET,,,,0.007899,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5945,63 ROSCOE STREET/REAR OF 50 RODNEY STREET L1,,,,0.017354,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6259,56 PARR STREET,,,,0.026419,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,62C,LAND AT SOUTH EAST CORNER SPEKE HALL AVE,,,,7.572987,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6214,5&6 ALWAIN GREEN,,,,0.047907,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6217,30&31 ALWAIN GREEN,,,,0.038999,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6162,23 AIGBURTH ROAD AND 34 ALEXANDRA DRIVE,,,,0.439049,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6228,"MOREDALE CHILDRENS HOME, 18 LIVINGSTON DRIVE",,,,0.566075,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6253,LAND WITHIN TA CENTRE AIGBURTH ROAD,,,,0.625032,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6339,LAND AT BUCKLAND STREET,,,,0.089637,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3719,LAND TO THE SIDE OF 27 ALEXANDRA DRIVE,,,,0.059139,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5752,25 ANNERSLEY ROAD,,,,0.012597,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6157,"THE COTTAGE, 13 FULWOOD PARK",,,,0.013105,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6313,13a MANNERING ROAD,,,,0.032182,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6364,15-21 LARK LANE,,,,0.021683,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6345,Land at Junction Fulwood Road_x000D_ Larkfield Road and Annesley Road,,,,0.033045,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6187,"BANKFIELD COLLEGE, BANKFIELD ROAD",,,,0.918794,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4568,"439 West Derby Road, L6",,,,0.119363,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6064,"TRINITY METHODIST CHURCH, WEST DERBY ROAD, L6",,,,0.066112,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1040,90 TOWNSEND LANE,,,,0.035233,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5932,10 DENMAN DRIVE L6,,,,0.035541,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5957,1-5 DORSET ROAD L6.,,,,0.056182,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6033,65 KREMLIN DRIVE,,,,0.050365,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6010,22 JUDGES DRIVE,,,,0.04064,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6327,61 KREMLIN DRIVE,,,,0.047944,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6221,LAND ADJACENT TO 58 CURATE ROAD,,,,0.01493,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6244,10 WINDSOR ROAD,,,,0.012036,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6351,11 KREMLIN DRIVE,,,,0.016162,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5971,23 WALTON VALE L9,,,,0.012945,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6083,71 ORREL LANE,,,,0.014879,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4363,"LAND TO SOUTH OF ENTERPRISE WAY, WAVERTREE TECHNOLOGY PARK",,,,1.813787,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6262,"CHILLIES 57-61 HIGH STREET, L15",,,,0.046537,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6234,"THATCHED HOUSE, 68 HIGH STREET",,,,0.069223,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5976,"LAND TO THE REAR OF THE OAKS P.H., LINGMELL ROAD L12.",,,,0.118555,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6256,LAND TO THE REAR OF 107 ALMONDS GREEN,,,,0.024359,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6188,THE CRYING TREE GRANGE LANE,,,,0.29404,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5889,"SITE OF FORMER BREWERY, GATEACRE BROW",,,,0.159461,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6164,"GRANGE HOLLIES, 35 GRANGE LANE",,,,0.230453,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6282,28a-28d GATEACRE BROW,,,,0.028771,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6310,"15 HEADBOURNE CLOSE, L25",,,,0.124695,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6059,Land adjacent to 1 Winhill Liverpool L25,,,,0.019443,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6149,"WOOLTON LIBRARY, ALLERTON ROAD",,,,0.017687,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6241,HALHYN 17 MOUNT PARK,,,,0.074778,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6359,33 RODICK STREET,,,,0.067871,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6161,"49 RUSCOMBE ROAD, L14",,,,0.167544,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6122,"BLACK ANGUS, BARONS HEY",,,,0.130102,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6071,LAND TO THE SIDE OF HARBERN CLOSE,,,,0.017848,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6889,14 COLQUITT STREET,,,,0.026225,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5333,"FORMER ST BERNARDS CHURCH, 95a KINGSLEY ROAD",,,,0.21597,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5466,ST MALACHY'S PRIMARY SCHOOL,,,,1.26469,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3204A,GREAT GEORGE ST DEVELOPMENT AREA,,,,1.780819,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6195,9-27 FREEMASONS ROW,,,,0.768073,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4563,"SUMMERS ROAD, BRUNSWICK BUSINESS PARK L3.",,,,0.816636,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1657,WAREHOUSE AT 2-22 NEW BIRD ST / JORDAN STREET,,,,0.316609,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6898,18-24 SEEL STREET,,,,0.202243,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4259,LAND BETWEEN SEFTON STREET AND CARYL STREET,,,,0.409732,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4083B,LAND AT HILL STREET,,,,0.417125,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6352,ROSE PLACE,,,,0.248727,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,568A,56 NORFOLK STREET,,,,0.094635,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6304,LAND AT MONARCHS QUAY,,,,1.4193,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6358,"BUILDINGS, CLEGG STREET",,,,0.208214,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3311A,LAND BOUNDED BY / LEMON STREET / HERIOT STREET / GREAT MERSEY STREET,,,,0.32556,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1654,LAND AND BUILDING AT JUNCTION OF NORFOLK ST / WATKINSON STREET,,,,0.151438,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2761,8-10 STANLEY ST,,,,0.026156,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2282B,12-14 MOSS STREET,,,,0.031029,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3913,"FORMER PRINCESS BINGO HALL, SELWYN STREET / BREWSTER STREET",,,,0.09863,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6329,"COPPERAS HILL POLICE STATION, COPPERAS HILL",,,,0.147698,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3356,Land at Walton Road /Woodhouse Close,,,,0.339835,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3402,"PARK COURT, PARK STREET",,,,0.142056,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,1949,FORMER 321-325 SCOTLAND RD,,,,0.155631,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5908,"FORMER CLARENCE HOTEL, UTTING AVENUE,",,,,0.468958,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4391,"ST AIDEN'S CHURCH, SOUTH PARADE, SPEKE",,,,0.507097,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3961,LAND AT 1 LONGMOOR LANE,,,,0.172652,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6374,2-8 CHURCH STREET,,,,0.060313,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3236,"LAND BOUNDED BY HALL LANE, WARBRECK MOOR AND DANEHURST RD",,,,0.06686,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2503,FORMER ST FRANCIS DE SALES JUNIOR SCHOOL SITE / CARISBROOKE ROAD,,,,0.13529,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6155,"217-229 COUNTY ROAD, L4",,,,0.050718,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5601,Former site Of Riverview Heights (1921),,,,0.243192,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,4079,LAND AT 20-28 GLAMIS ROAD,,,,0.094181,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6279,425 WEST DERBY ROAD,,,,0.052632,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6349,56 DERWENT ROAD EAST,,,,0.151696,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2202,"UNION HOUSE, VICTORIA STREET",,,,0.023412,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6385,363 PRESCOT ROAD,,,,0.027874,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,2272,LAND TO NORTH WEST OF JUNCTION OF EPWORTH STREET / PRESCOT STREET,,,,0.018384,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6370,QUEENS ARMS 202 WALTON ROAD,,,,0.021288,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6372,147 DUKE STREET,,,,0.006618,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6368,4 HAMPSTEAD ROAD,,,,0.027164,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6383,230 ALLERTON ROAD,,,,0.153885,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6379,12 CLIFTON ROAD,,,,0.020346,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6348,116 TOWN ROW,,,,0.010989,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6369,396 LONGMOOR LANE,,,,0.00896,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6375,Vauxhall Business Centre,,,,0.714605,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6367,22 DEAN PATEY COURT,,,,0.007177,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6371,113 BRECK ROAD,,,,0.009359,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,3097,52 KEMPSTON STREET / 21 GILDART STREET,,,,0.011558,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5217,THE BOB PAISLEY COURT. 91 HARTNUP STREET L5.,,,,0.248812,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,5781,SITE AT 6 BOSWELL STREET L8,,,,0.014983,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6346,"THE PINEAPPLE HOTEL, 258 PARK ROAD",,,,0.018681,,,permissioned,,,,,,,,,,2019-11-30,
-,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,6384,275 MENLOVE AVENUE,,,,0.078536,,,permissioned,,,,,,,,,,2019-11-30,
+Deliverable,EndDate,FirstAddedDate,GeoX,GeoY,HazardousSubstances,Hectares,LastUpdatedDate,MinNetDwellings,NetDwellingsRangeFrom,NetDwellingsRangeTo,Notes,OrganisationLabel,OrganisationURI,OwnershipStatus,PermissionDate,PermissionType,PlanningHistory,PlanningStatus,point,SiteNameAddress,SiteplanURL,SiteReference
+,,,,,,0.101365,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"440 ALLERTON ROAD, L18",,6189
+,,,,,,15.049742,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LIVERPOOL WATERS - NORTHERN DOCKS,,5157
+,,,,,,0.008225,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,147 BRECK ROAD,,6312
+,,,,,,0.608753,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,HOLLY COTTAGE AND LAND OF WOOD LANE,,4011
+,,,,,,0.519459,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,DORSET COURT. MADEIRA DRIVE L25.,,4559
+,,,,,,0.160509,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,CATS WHISKERS P.H. HARTSBOURNE AVENUE L25,,5714
+,,,,,,1.190775,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,WAREHOUSES ON PALL MALL (NORTH) & LAND TO REAR,,2661
+,,,,,,2.339496,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,KING EDWARD TRIANGLE,,2877
+,,,,,,0.483236,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,JAMAICA STRRET AND LAND BETWEEN NORFOLK STREET AND BRICK STREET,,2734
+,,,,,,11.400157,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,PRINCES DOCK AREA,,341
+,,,,,,0.521847,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT JUNCTION OF ISLINGTON / ASHTON PLACE / GILDART STREET,,154
+,,,,,,0.485342,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,ERSKINE STREET / MANFRED STREET / PROSPECT STREET,,6165
+,,,,,,0.383448,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"STRAND HOUSE, 21 STRAND STREET",,6121
+,,,,,,0.3053,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,BUILDING AT COCKSPUR ST WEST/ PALL MALL / PRUSSIA ST / HIGHFIELD STREET,,2236
+,,,,,,0.105785,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,33 DEVON STREET,,2245B
+,,,,,,0.403712,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,SOUTH EAST JUNCTION OF ISLINGTON / NORTON STREET,,2261
+,,,,,,0.15921,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,11 FONTENOY STREET L3,,5798
+,,,,,,0.227176,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"SILKHOUSE COURT, TITHEBARN STREET L2.",,5995
+,,,,,,0.334164,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"HUGHES HOUSE, 101-113 LONDON ROAD",,6335
+,,,,,,0.323136,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT NORTON STREET / ISLINGTON,,6093
+,,,,,,0.134763,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,122 OLD HALL STREET,,6186
+,,,,,,0.283205,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT CORNER OF DEVON STREET & MOSS STREET L6,,5719
+,,,,,,0.246813,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,GRASSED AREA CORNER OF PRESCOT STREET & ERSKINE STREET,,3169
+,,,,,,0.195873,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND BOUNDED BY SKELHORNE ST / BOLTON ST & NEW HILBRE WALK,,4019
+,,,,,,0.134031,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"MERSEY HOUSE, THE STRAND",,5546
+,,,,,,0.24464,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER ODEON PICTURE HOUSE, 28 LONDON ROAD L3.",,5384
+,,,,,,0.13148,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND TO NORTH EAST JUNCTION OLDHAM PLACE / BACK RENSHAW STREET,,95A
+,,,,,,0.167576,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"NORWICH BUILDING, WATER STREET",,6342
+,,,,,,0.021241,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,KINGSWAY HOUSE,,3756A
+,,,,,,0.115899,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"DRURY HOUSE, 19 WATER STREET",,6260
+,,,,,,0.090377,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"RALLI HOUSE, 60 OLD HALL STREET L1",,5968
+,,,,,,0.34773,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,45 & 51-79 LIME STREET L1,,5881
+,,,,,,5.091082,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,ARCHBISHOP BLANCH SCHOOL SITE,,3304
+,,,,,,0.122934,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,89-99 RENSHAW STREET,,2197
+,,,,,,0.067922,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"VICTORIA HOUSE, 7-11 JAMES STREET",,2319
+,,,,,,0.38526,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,OLDHAM PLACE OFF ROSCOE STREET,,95B
+,,,,,,0.328889,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"HARDMAN HOUSE AND HAIGH BUILDING, HARDMAN STREET / MARYLAND STREET",,6227
+,,,,,,0.027524,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"SIR THOMAS HOUSE, 5 SIR THOMAS STREET",,6343
+,,,,,,0.046954,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"NORTH HOUSE, NORTH JOHN STREET",,6223
+,,,,,,0.119798,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,RELIANCE HOUSE / 20 WATER STREET,,2226
+,,,,,,0.046183,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,77-85 DALE ST (PRINCE'S BUILDINGS),,2765
+,,,,,,0.071985,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,HONEYCOMB EDMUND STREET L3,,6278
+,,,,,,0.024351,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,10-12 JAMES ST (CROWN HOUSE),,2788
+,,,,,,0.036859,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,42-44 STANLEY STREET L1,,3750
+,,,,,,0.137801,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"IRWELL CHAMBERS, 9 UNION STREET",,6225
+,,,,,,0.039094,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,42 CASTLE STREET,,6112
+,,,,,,0.052151,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,1-3 TEMPLE COURT,,6087
+,,,,,,0.078865,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,18 WATER ST (NEW ZEALAND HOUSE),,2779
+,,,,,,0.024483,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,194 LONDON ROAD,,2265
+,,,,,,0.429989,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"Myrtle Court, 200 Crown Street, L8 7JX",,6147
+,,,,,,0.101007,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,7 WATER ST / 3 FENWICK ST,,2783
+,,,,,,0.010943,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,110 LONDON ROAD,,6118
+,,,,,,0.01372,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,21-23 RANELAGH ST (CORNER RANELAGH ST AND ENTRANCE TO CLAYTON SQUARE CENTRE),,3027
+,,,,,,0.044483,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,19 CASTLE STREET,,6008
+,,,,,,0.053811,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER CORPORATION STABLES, 65-73 SMITHDOWN LANE",,6126
+,,,,,,0.013582,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,44 CASTLE STREET,,6307
+,,,,,,0.029584,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"BIANCA HOUSE, 80 DEVON STREET (KNOWN AS 56-58 STAFFORD STREET)",,6360
+,,,,,,0.043058,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,71-73 KEMPSTON STREET,,3100
+,,,,,,0.010917,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,36-37 LEECE ST (POST OFFICE),,2889
+,,,,,,0.024052,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,13-17 TARLETON STREET L1,,5955
+,,,,,,0.043964,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,50-58 LONDON ROAD,,6240
+,,,,,,0.037321,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,9-11 CAMDEN STREET,,5527
+,,,,,,0.019567,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,24 RODNEY STREET,,6205
+,,,,,,0.015224,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,4 TEMPLE COURT,,6285
+,,,,,,0.067804,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,21 TRUEMAN ST (THRELFALL BUILDING),,2812
+,,,,,,0.010604,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,41-43 SEYMOUR TERRACE,,6366
+,,,,,,0.302114,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,SITE BETWEEN 43 COMMERCIAL ROAD & TOBACCO WHARF L5.,,4938
+,,,,,,7.891752,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,GARSTON UNDER THE BRIDGE REDEVELOPMENT AREA,,2560
+,,,,,,0.073372,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,83-89 KEMPSTON STREET L3,,5843
+,,,,,,0.020349,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,31-33 TARLETON STREET,,6300
+,,,,,,0.014993,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,14B POMONA STREET,,6318
+,,,,,,0.023964,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,43-47 STAFFORD STREET L3.,,5966
+,,,,,,0.030536,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,82 KEMPSTON STREET L3,,5900
+,,,,,,0.004906,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,MAY PLACE,,6081
+,,,,,,2.385481,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"Former Robinson Willey Site, Mill Lane, Liverpool, L13",,1691A
+,,,,,,0.24546,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER SARAH MCARD NURSERY, SHAW STREET",,3761
+,,,,,,0.231147,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT MALDON LODGE / WOOLTON ROAD,,2609
+,,,,,,0.277519,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,SITE OF 280 ALLERTON ROAD,,6261
+,,,,,,0.061396,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,160-164 GREENHILL ROAD,,6098
+,,,,,,0.207373,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,35 DUDLOW LANE,,6284
+,,,,,,0.01903,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,6A ROSE LANE L18.,,3998
+,,,,,,0.008801,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,22 ROSE LANE L18.,,5845
+,,,,,,0.023349,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,34A BRIDGE ROAD,,6018
+,,,,,,0.469961,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER WHISTLERS FARM SHOP SITE, LORENZO DRIVE",,6123
+,,,,,,0.004259,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,299 UTTING AVENUE,,6145
+,,,,,,0.01774,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"254-256 COUNTY ROAD, LIVERPOOL, L4",,6151
+,,,,,,0.017323,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,95 COUNTY ROAD,,6328
+,,,,,,0.028913,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND BETWEEN 3-13 HARLECH STREET,,6110
+,,,,,,0.012179,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,74 GOODISON ROAD L4,,5869
+,,,,,,0.020087,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,11A BIRCHFIELD ROAD L4,,5933
+,,,,,,0.017688,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,193A COUNTY ROAD,,5930
+,,,,,,2.772194,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LONG LANE / GREENHILL RD / GREENHILL NURSERY,,2088
+,,,,,,0.313152,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER ST AUSTIN'S CHURCH, PRESBYTERY AND CHALONER HALL, AIGBURTH ROAD",,6194
+,,,,,,0.109833,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND TO THE REAR OF 563-565 AIGBURTH ROAD L19,,4659
+,,,,,,0.013304,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,670 AIGBURTH ROAD,,6248
+,,,,,,0.0826,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND BETWEEN 'BINBROOKE' & 22 EATON ROAD L19.,,4968
+,,,,,,0.024124,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT END OF FLORIDA COURT L19.,,5961
+,,,,,,0.180575,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER DOG AND GUN PUBLIC HOUSE, CROXTETH HALL LANE/CARR LANE EAST, LIVERPOOL, L12",,4475
+,,,,,,0.892711,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"SWAINBANKS LIMITED, 50 FOX STREET",,4054
+,,,,,,0.817133,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"LAND AT FOX STREET / ST ANNE STREET, L3",,6065
+,,,,,,17.382948,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,GREAT HOMER ST SHOPPING CENTRE (PROJECT JENNIFER),,3367
+,,,,,,0.278932,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AND BUILDINGS AT CLEGG ST / ILIAD ST / PRINCE EDWIN ST,,3369
+,,,,,,1.484032,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,NOTRE DAME SCHOOL,,5257
+,,,,,,0.265794,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,FORMER JFK HEIGHTS / EVERTON BROW / SALISBURY ST / HAIGH ST,,1936C
+,,,,,,0.618362,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER CENTRAL TIN FACTORY SITE, WILBRAHAM ST / DRYDEN ST",,5892
+,,,,,,0.357572,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"THE STRAWBERRY TAVERN, BRECKFIELD ROAD SOUTH",,4613
+,,,,,,9.171551,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND & BUILDINGS AT EDGE LANE,,3576
+,,,,,,3.466985,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER OGDENS TOBACCO FACTORY SITE, WEST DERBY ROAD/BOUNDARY LANE, LIVERPOOL, L6",,4472
+,,,,,,0.231886,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,SITE OF FORMER MONTROSE CLUB WHITEFIELD ROAD,,3894
+,,,,,,0.032964,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,14-20 BRECKFIELD ROAD NORTH,,4825
+,,,,,,0.051968,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,OLIVIA'S BAR (FORMERLY DEVONSHIRE ARMS P.H) ST. DOMINGO ROAD L5.,,5236
+,,,,,,0.041069,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"OLD CAMPFIELD HOTEL, 98 HEYWORTH STREET",,6305
+,,,,,,0.078887,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND ADJ TO 40 BIRCHFIELD STREET L3.,,5969
+,,,,,,0.01834,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,1-3 EVERTON ROAD,,6166
+,,,,,,0.010784,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,42 BRECKFIELD ROAD NORTH,,6309
+,,,,,,0.047319,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,56-70 CONWY DRIVE L6,,5964
+,,,,,,0.006512,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,58 BRECKFIELD ROAD NORTH L5,,5839
+,,,,,,0.022444,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"197-199 OAKFIELD ROAD, L4",,6270
+,,,,,,0.009229,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND TO THE SIDE OF 11 MARATHON CLOSE,,6209
+,,,,,,4.032801,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"NEWHALL, LONGMOOR LANE",,4666
+,,,,,,1.916664,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,REDBRIDGE AND BANKVIEW. SHERWOODS LANE,,4786
+,,,,,,0.015664,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT MELLING AVENUE L9.,,1459
+,,,,,,0.008965,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,352 LONGMOOR LANE,,6193
+,,,,,,0.549494,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"GREENBANK SYNAGOGUE, GREENBANK DRIVE, L17",,6191
+,,,,,,0.632955,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,'THE WHEEL HOUSE' 10 ELMSLEY ROAD L18.,,5228
+,,,,,,0.304315,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"BRIDGE HOUSE, 7 MOSSLEY HILL DRIVE",,6085
+,,,,,,0.009299,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,185 VALE ROAD,,6361
+,,,,,,0.028531,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,671 SMITHDOWN ROAD,,6362
+,,,,,,0.727975,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT LOW HILL,,6124
+,,,,,,0.639364,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,209-299 PRESCOT ROAD AND 16-24 PRESCOT DRIVE,,1718
+,,,,,,0.102084,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,WORKS AT 86 COLERIDGE STREET,,4186
+,,,,,,0.149496,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,10 HOLLY ROAD L7,,5243
+,,,,,,0.11002,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"DYSON RYCROFT MEMORIAL HALL, BETWEEN 153&155 KENSINGTON",,4189
+,,,,,,0.047813,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,2 GROVE ROAD,,6203
+,,,,,,0.007259,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,176 BOALER STREET,,6276
+,,,,,,0.025264,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,24 FREEHOLD STREET,,4369
+,,,,,,0.015129,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,8 LORNE STREET,,6220
+,,,,,,0.011852,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,181 BOALER STREET L6,,5981
+,,,,,,0.104052,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,2 PRESCOT DRIVE,,6144
+,,,,,,17.505176,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,CENTRAL DOCKS,,613
+,,,,,,18.537514,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,ANFIELD / BRECKFIELD HMRI REGENERATION AREA,,3853
+,,,,,,13.009674,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LIVERPOOL WATERS - CLARENCE DOCK,,5158
+,,,,,,0.770271,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT LEEDS ST / LANYORK ROAD,,1983
+,,,,,,5.155591,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,STANLEY DOCK / NORTH DOCKS,,617
+,,,,,,0.07484,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,160-162 BRECK ROAD,,6319
+,,,,,,0.397961,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND CORNER BEVINGTON BUSH / GARDNER ROW / EDGAR STREET,,5928
+,,,,,,0.242715,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND BETWEEN FREEMASON'S ROW / GLADSTONE ST & LEEDS ST,,2655
+,,,,,,0.905816,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,BOND STREET / ELDON GROVE SITE,,1659
+,,,,,,6.420676,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"EASBY ESTATE, EASBY ROAD / LAMBETH ROAD / HARCOURT STREET",,4229
+,,,,,,0.073155,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,31A ORWELL ROAD,,6274
+,,,,,,0.099284,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT BURRELL ST / CHRISTOPHER ST / TATE ST / TETLOW ST,,3355
+,,,,,,0.052346,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,SITE AT WESTWINSTER ROAD / FOLEY STREET,,4320
+,,,,,,0.034418,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,FORMER 152 STANLEY ROAD & SITE ADJ TO 82 LAMBETH ROAD,,1687
+,,,,,,0.057215,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT HERIOT STREET,,6236
+,,,,,,0.012889,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,5 CARISBROOKE ROAD,,6040
+,,,,,,0.158604,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,111 MILL LANE L12.,,5544
+,,,,,,0.955765,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"ALDER GRANGE, CENTRAL DRIVE. SANDFIELD PARK L12.",,4584
+,,,,,,0.621515,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER KELTON CONVENT, WOODLANDS ROAD",,4067
+,,,,,,0.061047,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"SIR THOMAS MOORE RC CHURCH, RUNDLE ROAD",,6128
+,,,,,,0.025377,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,63 AVONMORE AVENUE L18,,5978
+,,,,,,0.069376,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND TO REAR OF KELTON LODGE / WOODLANDS ROAD,,1948
+,,,,,,0.246971,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"BROUGHTON HOUSE, 37-39 ASHFIELD ROAD L17.",,5815
+,,,,,,21.602753,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"PHASES 1, 2&3 THE BOOT ESTATE REGENERATION, NORRIS GREEN",,3614
+,,,,,,32.115284,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,NORRIS GREEN BOOT ESTATE - phase 1,,4598
+,,,,,,0.02798,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT THE CORNER OF UTTING AVENUE / EAST LEWISHAM ROAD,,6138
+,,,,,,0.065902,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,275 LONG LANE,,6355
+,,,,,,0.099611,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,19-21 DERBY LANE,,4750
+,,,,,,0.033672,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,33 DERBY LANE,,6277
+,,,,,,0.164386,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND BETWEEN SPEKELANDS & 70 OAKHILL PARK,,4222
+,,,,,,0.076392,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT 6 DERWENT ROAD WEST,,6311
+,,,,,,0.124138,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,FORMER ALLENBY SQUARE NURSERY SCHOOL. ALLENBY SQUARE / ELMS HOUSE ROAD,,4155
+,,,,,,0.103006,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"ST. MARGARET'S PARISH HALL, 2 BELMONT ROAD L6.",,5007
+,,,,,,0.050496,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,39 CHURCH ROAD L13,,5757
+,,,,,,0.0538,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,REAR OF 1A-1B DERBY LANE,,4096
+,,,,,,0.149523,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT MILL LANE AT REAR OF 7-21 CUNNINGHAM ROAD L13.,,4965
+,,,,,,6.870263,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,WAVERTREE HMRI REGENERATION AREA,,3855
+,,,,,,0.061946,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,16-18 GRINFIELD STREET L7,,5556
+,,,,,,0.013391,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"LAND ADJACENT TO WAVERTREE HOUSE, 145 LAWRENCE ROAD L15",,5834
+,,,,,,0.081408,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,REAR OF THE COMMUNITY CENTRE FREEMAN ST / FEARNSIDE ST,,1715
+,,,,,,0.103196,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"WELLINGTON AVENUE SUNDAY SCHOOL, WELLINGTON AVENUE",,6095
+,,,,,,0.050648,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND ADJ 46 SPOFFORTH ROAD L7,,5943
+,,,,,,0.01977,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,MAPLE GROVE / FERN GROVE,,6341
+,,,,,,0.122346,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER EARLE ACTIVITIES CENTRE, FREEMAN STREET",,1714
+,,,,,,0.017501,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,1 LANGTON ROAD,,6251
+,,,,,,0.013784,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT HARBORD STREET & OVERBURY STREET L7.,,5975
+,,,,,,0.008777,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND ADJACENT TO 36 THORNYCROFT ROAD,,6336
+,,,,,,0.012114,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,84 VANDYKE STREET L8,,5980
+,,,,,,0.051639,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"11-12 NORTH VIEW, LIVERPOOL",,5701B
+,,,,,,0.514188,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,BELLERIVE COLLEGE SITE,,5887
+,,,,,,1.152864,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER TIBER ST SCHOOL, LODGE LANE",,3203
+,,,,,,0.044596,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,2 PRINCES ROAD,,6174
+,,,,,,0.022053,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,115-117 WINDSOR STREET,,6252
+,,,,,,0.054313,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,162-172 HIGH PARK STREET,,6320
+,,,,,,0.088483,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,VACANT LAND AT KINGSLEY ROAD,,6213
+,,,,,,0.022694,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,104 LODGE LANE L8.,,5369
+,,,,,,0.006946,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,127A UPPER STANHOPE STREET,,6129
+,,,,,,0.019778,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,73 CANNING STREET L8,,5878
+,,,,,,0.00791,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,COACH HOUSE ADJACENT TO 2 CAIRNS STREET,,6247
+,,,,,,0.080577,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"40-50 PERCY STREET AND 53-57 UPPER PARLIAMENT STREET, L8",,6269
+,,,,,,0.084521,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,1 SUNNYSIDE,,6365
+,,,,,,0.47876,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,5 PARR ST & WOLSTENHOLME SQUARE & LAND/PREMISES BETWEEN NORTH EDGE WOLS,,5896
+,,,,,,0.6721,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT HILL ST / GRAFTON ST & BRASSEY STREET,,4083A
+,,,,,,1.048267,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND BOUNDED BY SEFTON STREET / PARLIAMENT STREET / STANHOPE STREET / CARYL STREET,,3852
+,,,,,,0.238724,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"LAND BOUNDED BY PARK LANE / LIVER STREET & BECKWITH STREET L1,",,5764
+,,,,,,0.290817,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT HURST STREET/SPARLING STREET/TABLEY STREET/WAPPING L1.,,5155
+,,,,,,0.925851,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"LAND ADJACENT TO THE KEEL, KINGS PARADE / HALFTIDE WHARF KINGS DOCK",,6060
+,,,,,,0.217776,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,GREENLAND STREET / NEW BIRD STREET / ST JAMES STREET / ST JAMES COURT,,5910
+,,,,,,0.271168,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER WAREHOUSE SITE, BLUNDELL STREET / KITCHEN STREET L1",,5292
+,,,,,,0.15032,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,Land at Vine Villa OFF Wood Lane,,6108
+,,,,,,0.423578,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,19 FULWOOD PARK L17,,5790
+,,,,,,0.093881,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,1 YEWTREE ROAD L18,,5799
+,,,,,,0.037498,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,55 ST DOMINGO GROVE L5.,,5833
+,,,,,,0.008698,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND ADJACENT TO 123 WESTMINSTER ROAD,,6337
+,,,,,,0.109304,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,2 OLD WOOD LANE,,6323
+,,,,,,0.061883,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"LAND ADJACENT TO NO49 BRECKSIDE PARK, L6",,4548
+,,,,,,0.157346,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,118-124 DUKE STREET & LAND AT CORNER OF DUKE ST / KENT ST / HENRY ST,,2516
+,,,,,,0.232347,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"HERCULANEUM QUAY, ROYDEN WAY, RIVERSIDE DRIVE",,3579
+,,,,,,2.292628,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,FORMER FACTORY GRAFTON ST / PARK ST / CARYL ST,,1339
+,,,,,,0.053285,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,63 & 65 DUKE STREET / 15 WOLSTENHOLME SQUARE,,2426
+,,,,,,0.039822,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,16 FLEET STREET CONCERT STEPS. L1,,3884
+,,,,,,0.036288,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT UPPER PITT STREET,,2622
+,,,,,,0.211358,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,FORMER 406-434 PARK ROAD,,1261
+,,,,,,0.352873,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND BOUNDED BY HARLOW ST / HAYLOCK CLOSE / MILL STREET,,1895
+,,,,,,0.36293,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,FORMER 15-37 BESSEMER ST / 102-104 BERESFORD RD / 378-400 MILL STREET,,1897
+,,,,,,0.187822,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND ON THE CORNER OF MILL STREET/BERESFORD ROAD AND TO THE REAR OF THE FLORENCE INSTITUTE L8,,4267
+,,,,,,0.030815,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,BUILDING AT CORNER WOOD ST/ BERRY ST/ BOLD ST,,2847
+,,,,,,0.088071,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND ON THE CORNER OF WARWICK STREET AND SHAFTESBURY STREET L8,,4203
+,,,,,,0.01063,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,82-84 COCKBURN STREET,,3978
+,,,,,,0.008837,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND OFF PARR STREET TO THE REAR OF 141 DUKE STREET L1.,,5174
+,,,,,,0.018051,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND ADJACENT TO 113 NORTHUMBERLAND STREET,,5691
+,,,,,,0.03082,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"3A GRANVILLE ROAD, GARSTON",,4807
+,,,,,,0.149637,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"LAND ADJACENT TO LINNET HOUSE,LINNET LANE LIVERPOOL, L8",,4536
+,,,,,,0.987111,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,FORMER ST AUGUSTINES HOME / AIGBURTH ROAD,,2403
+,,,,,,0.10693,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"LAND ADJACENT TO 28 AIGBURTH DRIVE AND AT REAR OF 2-18 EASTFIELD DRIVE, LIVERPOOL, L17",,4477
+,,,,,,0.062405,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,REAR OF 1 LIVINGSTON DRIVE SOUTH. L17,,5119
+,,,,,,0.167456,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"Land at Silverdale Avenue, Hilberry Avenue, Sutton Street Liverpool 13",,2389
+,,,,,,0.179897,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER GARAGE PREMISES AT 94 TOWNSEND LANE, (ON CORNER OF DARMONDS GREEN AVENUE), LIVERPOOL, L6",,4535
+,,,,,,0.028849,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,78/78A HILBERRY AVENUE,,3993
+,,,,,,0.010671,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,13 TOWNSEND LANE / 1A ABBEY ROAD,,3996
+,,,,,,0.009479,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,24 LOWER BRECK ROAD L6,,4588
+,,,,,,0.0518,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,REAR OF 53 KREMLIN DRIVE L13,,5269
+,,,,,,11.74174,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,WALTON HOSPITAL SITE / RICE LANE,,1962
+,,,,,,0.05544,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT 15 BROOK ROAD,,4023
+,,,,,,0.057089,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,45A CHAPEL AVENUE L9,,5390
+,,,,,,0.017671,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND ADJACENT TO 25 PALACE ROAD,,2377
+,,,,,,0.875075,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER WAVERTREE TRAIN STATION APPROACH, LAND AT WELLINGTON ROAD",,4280
+,,,,,,0.411015,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"NEWSTEAD FARM, QUARRY STREET L25.",,5274
+,,,,,,0.316782,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,THE FUR & FEATHERS SOCIAL CLUB. MAB LANE L12.,,5202
+,,,,,,0.8032,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,SITE IN LAUREL ROAD ADJACENT TO No:17,,1704
+,,,,,,0.189266,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,12-30 PARLIAMENT STREET,,6190
+,,,,,,0.404957,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT GRENVILLE STREET SOUTH / UPPER PITT STREET,,6163
+,,,,,,0.073375,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"32-34 PARLIAMENT STREET, L8",,5911
+,,,,,,0.083316,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER COUNCIL DEPOT SITE, LYDIA ANN STREET",,6301
+,,,,,,0.042007,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND BETWEEN BRIDGEWATER STREET / SIMPSON STREET / WATKINSON STREET,,5891
+,,,,,,0.028263,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"3-5 YORK STREET, L1",,6263
+,,,,,,0.124829,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND TO SOUTH OF PARK STREET BTWN UPPER ESSEX ST / TOXTETH ST,,1842
+,,,,,,0.036594,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,349 MILL STREET/44 HARLOW STREET,,4071
+,,,,,,0.048246,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,80 RODNEY STREET,,6302
+,,,,,,0.094573,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,9-19 BOLD STREET,,6334
+,,,,,,0.131146,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND BETWEEN NOS 10-30 NEW HENDERSON STREET L8,,4205
+,,,,,,0.051695,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"BERESFORD ARMS, 158 BERESFORD ROAD",,5888
+,,,,,,0.155498,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND ON THE CORNER OF WARWICK STREET & PRINCE WILLIAM STREET AND TO THE REAR OF RETAIL UNITS L8,,4202
+,,,,,,0.043449,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,31 RODNEY STREET,,5931
+,,,,,,0.027287,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,101-103 BOLD STREET,,6303
+,,,,,,0.149,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND BETWEEN NEW HENDERSON STREET & SHAFTESBURY STREET L8,,4204
+,,,,,,0.007157,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,30 SLATER STREET,,6330
+,,,,,,0.005772,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"441 MILL STREET, L8",,6152
+,,,,,,0.011828,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,108 WOOD STREET,,2756B
+,,,,,,0.021243,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,FORMER 181-185 DUKE STREET,,6264
+,,,,,,0.012133,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,44-46 BERRY STREET,,2194
+,,,,,,0.083331,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,45 RODNEY STREET,,6097
+,,,,,,0.008469,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"437 MILL STREET, L8",,6150
+,,,,,,0.005664,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,22 BERRY STREET L1,,5874
+,,,,,,0.018375,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,51 RODNEY STREET,,6023
+,,,,,,0.063082,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,39 RODNEY STREET,,6196
+,,,,,,0.009587,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,91 ROSCOE STREET,,6219
+,,,,,,0.018092,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,72 RODNEY STREET,,6082
+,,,,,,0.007899,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,1 BAILEY STREET,,6233
+,,,,,,0.017354,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,63 ROSCOE STREET/REAR OF 50 RODNEY STREET L1,,5945
+,,,,,,0.026419,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,56 PARR STREET,,6259
+,,,,,,7.572987,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT SOUTH EAST CORNER SPEKE HALL AVE,,62C
+,,,,,,0.047907,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,5&6 ALWAIN GREEN,,6214
+,,,,,,0.038999,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,30&31 ALWAIN GREEN,,6217
+,,,,,,0.439049,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,23 AIGBURTH ROAD AND 34 ALEXANDRA DRIVE,,6162
+,,,,,,0.566075,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"MOREDALE CHILDRENS HOME, 18 LIVINGSTON DRIVE",,6228
+,,,,,,0.625032,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND WITHIN TA CENTRE AIGBURTH ROAD,,6253
+,,,,,,0.089637,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT BUCKLAND STREET,,6339
+,,,,,,0.059139,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND TO THE SIDE OF 27 ALEXANDRA DRIVE,,3719
+,,,,,,0.012597,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,25 ANNERSLEY ROAD,,5752
+,,,,,,0.013105,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"THE COTTAGE, 13 FULWOOD PARK",,6157
+,,,,,,0.032182,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,13a MANNERING ROAD,,6313
+,,,,,,0.021683,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,15-21 LARK LANE,,6364
+,,,,,,0.033045,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,Land at Junction Fulwood Road Larkfield Road and Annesley Road,,6345
+,,,,,,0.918794,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"BANKFIELD COLLEGE, BANKFIELD ROAD",,6187
+,,,,,,0.119363,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"439 West Derby Road, L6",,4568
+,,,,,,0.066112,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"TRINITY METHODIST CHURCH, WEST DERBY ROAD, L6",,6064
+,,,,,,0.035233,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,90 TOWNSEND LANE,,1040
+,,,,,,0.035541,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,10 DENMAN DRIVE L6,,5932
+,,,,,,0.056182,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,1-5 DORSET ROAD L6.,,5957
+,,,,,,0.050365,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,65 KREMLIN DRIVE,,6033
+,,,,,,0.04064,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,22 JUDGES DRIVE,,6010
+,,,,,,0.047944,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,61 KREMLIN DRIVE,,6327
+,,,,,,0.01493,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND ADJACENT TO 58 CURATE ROAD,,6221
+,,,,,,0.012036,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,10 WINDSOR ROAD,,6244
+,,,,,,0.016162,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,11 KREMLIN DRIVE,,6351
+,,,,,,0.012945,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,23 WALTON VALE L9,,5971
+,,,,,,0.014879,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,71 ORREL LANE,,6083
+,,,,,,1.813787,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"LAND TO SOUTH OF ENTERPRISE WAY, WAVERTREE TECHNOLOGY PARK",,4363
+,,,,,,0.046537,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"CHILLIES 57-61 HIGH STREET, L15",,6262
+,,,,,,0.069223,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"THATCHED HOUSE, 68 HIGH STREET",,6234
+,,,,,,0.118555,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"LAND TO THE REAR OF THE OAKS P.H., LINGMELL ROAD L12.",,5976
+,,,,,,0.024359,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND TO THE REAR OF 107 ALMONDS GREEN,,6256
+,,,,,,0.29404,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,THE CRYING TREE GRANGE LANE,,6188
+,,,,,,0.159461,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"SITE OF FORMER BREWERY, GATEACRE BROW",,5889
+,,,,,,0.230453,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"GRANGE HOLLIES, 35 GRANGE LANE",,6164
+,,,,,,0.028771,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,28a-28d GATEACRE BROW,,6282
+,,,,,,0.124695,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"15 HEADBOURNE CLOSE, L25",,6310
+,,,,,,0.019443,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,Land adjacent to 1 Winhill Liverpool L25,,6059
+,,,,,,0.017687,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"WOOLTON LIBRARY, ALLERTON ROAD",,6149
+,,,,,,0.074778,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,HALHYN 17 MOUNT PARK,,6241
+,,,,,,0.067871,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,33 RODICK STREET,,6359
+,,,,,,0.167544,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"49 RUSCOMBE ROAD, L14",,6161
+,,,,,,0.130102,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"BLACK ANGUS, BARONS HEY",,6122
+,,,,,,0.017848,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND TO THE SIDE OF HARBERN CLOSE,,6071
+,,,,,,0.026225,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,14 COLQUITT STREET,,6889
+,,,,,,0.21597,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER ST BERNARDS CHURCH, 95a KINGSLEY ROAD",,5333
+,,,,,,1.26469,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,ST MALACHY'S PRIMARY SCHOOL,,5466
+,,,,,,1.780819,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,GREAT GEORGE ST DEVELOPMENT AREA,,3204A
+,,,,,,0.768073,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,9-27 FREEMASONS ROW,,6195
+,,,,,,0.816636,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"SUMMERS ROAD, BRUNSWICK BUSINESS PARK L3.",,4563
+,,,,,,0.316609,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,WAREHOUSE AT 2-22 NEW BIRD ST / JORDAN STREET,,1657
+,,,,,,0.202243,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,18-24 SEEL STREET,,6898
+,,,,,,0.409732,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND BETWEEN SEFTON STREET AND CARYL STREET,,4259
+,,,,,,0.417125,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT HILL STREET,,4083B
+,,,,,,0.248727,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,ROSE PLACE,,6352
+,,,,,,0.094635,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,56 NORFOLK STREET,,568A
+,,,,,,1.4193,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT MONARCHS QUAY,,6304
+,,,,,,0.208214,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"BUILDINGS, CLEGG STREET",,6358
+,,,,,,0.32556,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND BOUNDED BY / LEMON STREET / HERIOT STREET / GREAT MERSEY STREET,,3311A
+,,,,,,0.151438,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AND BUILDING AT JUNCTION OF NORFOLK ST / WATKINSON STREET,,1654
+,,,,,,0.026156,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,8-10 STANLEY ST,,2761
+,,,,,,0.031029,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,12-14 MOSS STREET,,2282B
+,,,,,,0.09863,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER PRINCESS BINGO HALL, SELWYN STREET / BREWSTER STREET",,3913
+,,,,,,0.147698,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"COPPERAS HILL POLICE STATION, COPPERAS HILL",,6329
+,,,,,,0.339835,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,Land at Walton Road /Woodhouse Close,,3356
+,,,,,,0.142056,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"PARK COURT, PARK STREET",,3402
+,,,,,,0.155631,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,FORMER 321-325 SCOTLAND RD,,1949
+,,,,,,0.468958,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"FORMER CLARENCE HOTEL, UTTING AVENUE,",,5908
+,,,,,,0.507097,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"ST AIDEN'S CHURCH, SOUTH PARADE, SPEKE",,4391
+,,,,,,0.172652,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT 1 LONGMOOR LANE,,3961
+,,,,,,0.060313,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,2-8 CHURCH STREET,,6374
+,,,,,,0.06686,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"LAND BOUNDED BY HALL LANE, WARBRECK MOOR AND DANEHURST RD",,3236
+,,,,,,0.13529,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,FORMER ST FRANCIS DE SALES JUNIOR SCHOOL SITE / CARISBROOKE ROAD,,2503
+,,,,,,0.050718,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"217-229 COUNTY ROAD, L4",,6155
+,,,,,,0.243192,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,Former site Of Riverview Heights (1921),,5601
+,,,,,,0.094181,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND AT 20-28 GLAMIS ROAD,,4079
+,,,,,,0.052632,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,425 WEST DERBY ROAD,,6279
+,,,,,,0.151696,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,56 DERWENT ROAD EAST,,6349
+,,,,,,0.023412,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"UNION HOUSE, VICTORIA STREET",,2202
+,,,,,,0.027874,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,363 PRESCOT ROAD,,6385
+,,,,,,0.018384,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,LAND TO NORTH WEST OF JUNCTION OF EPWORTH STREET / PRESCOT STREET,,2272
+,,,,,,0.021288,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,QUEENS ARMS 202 WALTON ROAD,,6370
+,,,,,,0.006618,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,147 DUKE STREET,,6372
+,,,,,,0.027164,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,4 HAMPSTEAD ROAD,,6368
+,,,,,,0.153885,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,230 ALLERTON ROAD,,6383
+,,,,,,0.020346,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,12 CLIFTON ROAD,,6379
+,,,,,,0.010989,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,116 TOWN ROW,,6348
+,,,,,,0.00896,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,396 LONGMOOR LANE,,6369
+,,,,,,0.714605,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,Vauxhall Business Centre,,6375
+,,,,,,0.007177,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,22 DEAN PATEY COURT,,6367
+,,,,,,0.009359,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,113 BRECK ROAD,,6371
+,,,,,,0.011558,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,52 KEMPSTON STREET / 21 GILDART STREET,,3097
+,,,,,,0.248812,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,THE BOB PAISLEY COURT. 91 HARTNUP STREET L5.,,5217
+,,,,,,0.014983,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,SITE AT 6 BOSWELL STREET L8,,5781
+,,,,,,0.018681,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,"THE PINEAPPLE HOTEL, 258 PARK ROAD",,6346
+,,,,,,0.078536,2019-11-30,,,,,,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,,,,,permissioned,,275 MENLOVE AVENUE,,6384
