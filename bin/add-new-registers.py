@@ -9,7 +9,7 @@ from digital_land.collection import Collection
 # Digital Land Google Sheet with new registers ..
 
 sheet="brownfield-land"
-key="1e1UUs34KITLANgJGGHNV1Hh_UzkKU_7ROApzOdzhGAU"
+key="1gqnshGmO_ccbxSGEZ4-leatrB3u3QAmgUCY1TSHoyVw"
 CSV_URL='https://docs.google.com/spreadsheets/d/%s/gviz/tq?tqx=out:csv&sheet={%s}' % (key, sheet)
 
 
