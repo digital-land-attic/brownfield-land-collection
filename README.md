@@ -1,39 +1,32 @@
-# brownfield land collection
+# XXX collection
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-land/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/XXX/blob/main/LICENSE)
+[![Run pipeline](https://github.com/digital-land/XXX-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/XXX-collection/actions/workflows/run.yml)
 
-A collection of individual [brownfield land registers](https://www.gov.uk/guidance/brownfield-land-registers) collected each night from local planning authorities, which are processed and then assembled into a national dataset.
-
-The national dataset is in a format consistent with other Digital Land datasets as defined by the [brownfield-land schema](https://digital-land.github.io/specification/schema/brownfield-land/).
-
-* [brownfield land registers](https://www.gov.uk/guidance/brownfield-land-registers) — GOV.UK guidance for local planning authorities on brownfield land to be included in their register.
-* [publish your brownfield land data](https://www.gov.uk/government/publications/brownfield-land-registers-data-standard/publish-your-brownfield-land-data) — guidance for local planning authorities on the data format when publishing brownfield land data.
+The data and pipeline to build the [XXX dataset](https://www.digital-land.info/dataset/XXX).
 
 # Collection
 
 * [collection/source.csv](collection/source.csv) — the list of data sources by organisation, see [specification/source](https://digital-land.github.io/specification/schema/source/)
 * [collection/endpoint.csv](collection/endpoint.csv) — the list of endpoint URLs for the collection, see [specification/endpoint](https://digital-land.github.io/specification/schema/endpoint)
 * [collection/resource/](collection/resource/) — collected resources
-* [collection/log/](collection/log/) — individual log JSON files, created by the colletion process
-* [collection/resource.csv](collection/resource.csv) — an index of collected resources, see [specification/resource](https://digital-land.github.io/specification/schema/resource)
+* [collection/log/](collection/log/) — individual log JSON files, created by the collection process
+* [collection/log.csv](collection/log.csv) — a collection log assembled from the individual log files, see [specification/log](https://digital-land.github.io/specification/schema/log)
+* [collection/resource.csv](collection/resource.csv) — a list of collected resources, see [specification/resource](https://digital-land.github.io/specification/schema/resource)
 
-# Rebuilding the collection
+# Updating the collection
 
-We recommend working in [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) before installing the python [requirements](requirements.txt), [makerules](https://github.com/digital-land/makerules) and other dependencies:
+We recommend working in [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) before installing the python [requirements](requirements.txt), [makerules](https://github.com/digital-land/makerules) and other dependencies. Requires Make v4.0 or above.
 
     $ make makerules
     $ make init
     $ make collect
 
-# Building the national dataset
+# Building the datasets
 
-Collected files can be converted into a national dataset:
+The collected files can then be converted into a national dataset:
 
     $ make
-
-# Nightly collection
-
-The collection is [updated nightly](https://github.com/digital-land/brownfield-land-collection/actions) by the [GitHub Action](.github/workflows/run.yml).
 
 # Licence
 
