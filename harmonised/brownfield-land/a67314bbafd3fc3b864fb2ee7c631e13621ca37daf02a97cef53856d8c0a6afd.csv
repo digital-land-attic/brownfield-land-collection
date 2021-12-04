@@ -1,7 +1,7 @@
-Deliverable,EndDate,FirstAddedDate,GeoX,GeoY,HazardousSubstances,Hectares,LastUpdatedDate,MinNetDwellings,NetDwellingsRangeFrom,NetDwellingsRangeTo,Notes,OrganisationLabel,OrganisationURI,OwnershipStatus,PermissionDate,PermissionType,PlanningHistory,PlanningStatus,point,SiteNameAddress,SiteplanURL,SiteReference
-,,,,,,0.51,2019-12-14,,,,,,http://opendatacommunities.org/id/national-park-authority/exmoor,,,,,,,"Tors Hotel, Countisbury Hill, Lynmouth",,SHA/LYN/38
-,,,,,,0.41,2019-12-14,,,,,,http://opendatacommunities.org/id/national-park-authority/exmoor,,,,,,,"Bottom Meadow Car Park and Part Adjoining Playgrounds, Castle Hill, Lynton",,SHA/LYN/2
-,,,,,,0.33,2019-12-14,,,,,,http://opendatacommunities.org/id/national-park-authority/exmoor,,,,,,,"Rear of Valley of the Rocks Hotel, Lee Road, Lynton",,SHA/LYN/15
-,,,,,,0.49,2019-12-14,,,,,,http://opendatacommunities.org/id/national-park-authority/exmoor,,,,,,,"Pinkery Outdoor Education Centre, Exmoor",,6/14/16/102
-,,,,,,0.28,2019-12-14,,,,,,http://opendatacommunities.org/id/national-park-authority/exmoor,,,,,,,"Dunster Steep, Porlock",,6/27/18/115
-,,,,,,0.35,2019-12-14,,,,,,http://opendatacommunities.org/id/national-park-authority/exmoor,,,,,,,"Stockleigh Lodge, Exford",,6/13/18/104
+Deliverable,EndDate,FirstAddedDate,GeoX,GeoY,HazardousSubstances,Hectares,LastUpdatedDate,MinNetDwellings,NetDwellingsRangeFrom,NetDwellingsRangeTo,Notes,OrganisationLabel,OrganisationURI,OwnershipStatus,PermissionDate,PermissionType,PlanningHistory,PlanningStatus,SiteNameAddress,SiteReference,SiteplanURL,entity,point,brownfield-land
+,,,,,,0.51,2019-12-14,,,,,,http://opendatacommunities.org/id/national-park-authority/exmoor,,,,,,"Tors Hotel, Countisbury Hill, Lynmouth",SHA/LYN/38,,,,
+,,,,,,0.41,2019-12-14,,,,,,http://opendatacommunities.org/id/national-park-authority/exmoor,,,,,,"Bottom Meadow Car Park and Part Adjoining Playgrounds, Castle Hill, Lynton",SHA/LYN/2,,,,
+,,,,,,0.33,2019-12-14,,,,,,http://opendatacommunities.org/id/national-park-authority/exmoor,,,,,,"Rear of Valley of the Rocks Hotel, Lee Road, Lynton",SHA/LYN/15,,,,
+,,,,,,0.49,2019-12-14,,,,,,http://opendatacommunities.org/id/national-park-authority/exmoor,,,,,,"Pinkery Outdoor Education Centre, Exmoor",6/14/16/102,,,,
+,,,,,,0.28,2019-12-14,,,,,,http://opendatacommunities.org/id/national-park-authority/exmoor,,,,,,"Dunster Steep, Porlock",6/27/18/115,,,,
+,,,,,,0.35,2019-12-14,,,,,,http://opendatacommunities.org/id/national-park-authority/exmoor,,,,,,"Stockleigh Lodge, Exford",6/13/18/104,,,,
